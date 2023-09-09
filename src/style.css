@@ -1,0 +1,38 @@
+/* PERSONAS */
+
+#cantanteinfo{
+    padding: 50px 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#cantanteinfo img{
+    border-radius: 50%;
+}
+#cantanteinfo div{
+    padding: 30px 50px;
+}
+#cantanteinfo div h4{
+    color: #4d4d5c87;
+    font-size: 20px;
+    margin: 15px 0px;
+}
+#cantanteinfo div p{
+    color: #4d4d5c87;
+    font-size: 18px;
+}
+
+.boton-masinfo{
+    display: inline-block;
+    text-decoration: none;
+    color: #104568;
+    padding: 10px 30px;
+    border: 3px solid #104568;
+    border-radius: 30px;
+    margin-top: 15px;
+    transition: all 0.4s;
+}
+.boton-masinfo:hover{
+    background: #104568;
+    color: #fff;
+}
